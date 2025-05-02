@@ -1,5 +1,6 @@
 # JARVIS-Python-GUI-Assistant
 🤖 JARVIS is your AI assistant with a slick GUI. Voice recognition, natural language processing, and task automation. Get organized and simplify tasks. Contribute to our open-source project! #Python #AIAssistant #OpenSource
+
 Description:
 
 JARVIS-Python-GUI-Assistant is an open-source project that brings the power of a virtual assistant, inspired by JARVIS from the Iron Man series, right to your desktop. This project combines the capabilities of speech recognition, natural language processing, and a user-friendly graphical user interface (GUI) to create a versatile digital companion.
@@ -23,6 +24,7 @@ Getting Started:
 Clone the repository to your local machine.
 Install the required Python libraries and dependencies as outlined in the documentation.
 Launch the application and start interacting with your very own virtual assistant.
+
 Contribution:
 
 We welcome contributions from the open-source community to enhance the capabilities of this virtual assistant. Whether you're a developer, designer, or enthusiast, your input can help make this project even more powerful and user-friendly.
